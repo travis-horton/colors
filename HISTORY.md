@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**colors #11: Bump brace-expansion from 1.1.11 to 1.1.21** · [PR #11](https://github.com/travis-horton/colors/pull/11) · merged 26.1016.0956 · v1.0.3
+- Behind the scenes: an automatic dependency update — "Bump brace-expansion from 1.1.11 to 1.1.21".
+
 **colors #16: the change log catches up on entries it missed** · [PR #16](https://github.com/travis-horton/colors/pull/16) · merged 26.1015.0728 · v1.0.2
 - Behind the scenes: the robot that writes this file after each change now also writes in any earlier finished change it missed, oldest first, with a "recorded late" note when it is more than an hour late. If GitHub won't answer one of its lookups, it skips only that one, records the newest change anyway, and fills the gap on a later run.
 
