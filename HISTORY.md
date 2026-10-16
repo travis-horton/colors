@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**colors #19: Bump flatted, eslint and eslint-config-airbnb-base** · [PR #19](https://github.com/travis-horton/colors/pull/19) · merged 26.1016.1035 · v1.0.9
+- Behind the scenes: an automatic dependency update — "Bump flatted, eslint and eslint-config-airbnb-base".
+
 **colors #18: Bump tmp, eslint and eslint-config-airbnb-base** · [PR #18](https://github.com/travis-horton/colors/pull/18) · merged 26.1016.1035 · v1.0.8
 - Behind the scenes: an automatic dependency update — "Bump tmp, eslint and eslint-config-airbnb-base".
 
