@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**colors #21: Dependabot's updates merge themselves** · [PR #21](https://github.com/travis-horton/colors/pull/21) · merged 26.1016.1117 · v1.0.10
+- Behind the scenes: a new automatic job merges each library update from Dependabot as soon as it opens, then asks the change-log job to record it, so the updates keep landing without anyone clicking merge.
+
 **colors #19: Bump flatted, eslint and eslint-config-airbnb-base** · [PR #19](https://github.com/travis-horton/colors/pull/19) · merged 26.1016.1035 · v1.0.9
 - Behind the scenes: an automatic dependency update — "Bump flatted, eslint and eslint-config-airbnb-base".
 
