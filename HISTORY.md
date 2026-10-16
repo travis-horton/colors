@@ -4,6 +4,9 @@ The whole history of this project, newest first, written for someone who has nev
 
 ## October 2026
 
+**colors #20: Bump ansi-regex** · [PR #20](https://github.com/travis-horton/colors/pull/20) · merged 26.1016.1032 · v1.0.7
+- Behind the scenes: an automatic dependency update — "Bump ansi-regex".
+
 **colors #17: Bump minimatch from 3.0.4 to 3.1.5** · [PR #17](https://github.com/travis-horton/colors/pull/17) · merged 26.1016.1030 · v1.0.6
 - Behind the scenes: an automatic dependency update — "Bump minimatch from 3.0.4 to 3.1.5".
 

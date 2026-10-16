@@ -1,6 +1,6 @@
 {
   "name": "y",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "standard utility functions for canvas",
   "scripts": {
     "test": "test"
